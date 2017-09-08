@@ -1,0 +1,10 @@
+html,body{background:#fff;}
+body {color:#000; font-family:Arial, Helvetica, sans-serif}
+a{color:#0677ba; text-decoration:underline;}
+a:hover{text-decoration:none;}
+#wrap{width:auto; margin:0 auto;}
+#head{display:none;}
+#contentWrap{font-size:0.875em;}
+#sidebar{display:none;}
+#content{width:auto; color:#000;}	
+#footer{display:none;}
